@@ -42,10 +42,10 @@ footer{
 	height: 5%;
 }
 
-a:link {
+#resume > a:link {
     color:#FF0000;
 }
-a:visited {
+#resume > a:visited {
     color:#FF9900;
 }
 
